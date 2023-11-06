@@ -153,7 +153,8 @@ foreach($results as $result)
 						</li>
 						<?php } else {?>
 							<li class="sigi" align="center" style="margin-top: 1%">
-							<a href="#" data-toggle="modal" data-target="#myModal4" class="btn-primary btn" > Book</a></li>
+							<a href="#" data-toggle="modal" data-target="#myModal4" class="btn-primary btn" > Book</a>
+							<a href="/daraja-tutorial-master/index.php">pay via mpesa</a></li>
 							<?php } ?>
 					<div class="clearfix"></div>
 				</ul>
